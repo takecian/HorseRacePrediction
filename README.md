@@ -28,9 +28,6 @@ python generator.py
 python predictor.py
 ```
 
-## 参考書
-
-- [「ゼロからから作るDeepLearning」](/Book/DeepLearningFromScratch.epub)
 
 ## 学習データ
 
